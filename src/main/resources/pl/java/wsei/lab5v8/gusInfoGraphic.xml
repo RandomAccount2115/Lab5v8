@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Główny Urząd Statystyczny</title>
+		<link>https://stat.gov.pl/</link>
+		<description>Główny Urząd Statystyczny - Portal Statystyki Publicznej</description>
+		<image>
+			<title>Główny Urząd Statystyczny</title>
+			<url>https://stat.gov.pl/szablony/portalinformacyjny/images/logo_normal.gif</url>
+			<link>https://stat.gov.pl/</link>
+		</image>
+		<atom:link href="https://stat.gov.pl/rss/pl/portalinformacyjny.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title><![CDATA[Infografika - Światowy Dzień Bezpieczeństwa i Ochrony Zdrowia w Pracy]]></title>
+			<pubDate><![CDATA[Fri, 28 Apr 2023 12:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-swiatowy-dzien-bezpieczenstwa-i-ochrony-zdrowia-w-pracy,122,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-swiatowy-dzien-bezpieczenstwa-i-ochrony-zdrowia-w-pracy,122,1.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/122/1/1/swiatowy_dzien_bezpieczenstwa_i_ochrony_zdrowia_w_pracy_slider_pl.jpg" type="image/jpeg" width="1230" height="691">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/122/1/1/swiatowy_dzien_bezpieczenstwa_i_ochrony_zdrowia_w_pracy_slider_pl,k1uUwl-caFOE6tCTiHtf.jpg" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/122/1/1/swiatowy_dzien_bezpieczenstwa_i_ochrony_zdrowia_w_pracy_slider_pl,k1uUwl-caFOE6tCTiHtf.jpg" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Koniunktura gospodarcza w kwietniu 2023 r.]]></title>
+			<pubDate><![CDATA[Fri, 21 Apr 2023 12:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-kwietniu-2023-r-,38,81.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-kwietniu-2023-r-,38,81.html</guid>
+			<description><![CDATA[]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Koniunktura gospodarcza w marcu 2023 r.]]></title>
+			<pubDate><![CDATA[Wed, 22 Mar 2023 15:00:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-marcu-2023-r-,38,80.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-marcu-2023-r-,38,80.html</guid>
+			<description><![CDATA[]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Badanie Struktura wynagrodzeń według zawodów]]></title>
+			<pubDate><![CDATA[Mon, 13 Mar 2023 08:25:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-badanie-struktura-wynagrodzen-wedlug-zawodow,121,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-badanie-struktura-wynagrodzen-wedlug-zawodow,121,1.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/121/1/1/grafika.jpg" type="image/jpeg" width="4012" height="2250">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/121/1/1/grafika,k1uUwl-caFOE6tCTiHtf.jpg" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/121/1/1/grafika,k1uUwl-caFOE6tCTiHtf.jpg" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Dzień Statystyki Polskiej]]></title>
+			<pubDate><![CDATA[Thu, 09 Mar 2023 10:00:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/dzien-statystyki-polskiej,100,2.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/dzien-statystyki-polskiej,100,2.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/100/2/1/dzien_statystyki_polskiej_2023_infogr_pl_2.png" type="image/png" width="2134" height="3021">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/100/2/1/dzien_statystyki_polskiej_2023_infogr_pl_2,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/100/2/1/dzien_statystyki_polskiej_2023_infogr_pl_2,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika Dzień Kobiet (8 marca)]]></title>
+			<pubDate><![CDATA[Wed, 08 Mar 2023 10:32:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-dzien-kobiet-8-marca,120,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-dzien-kobiet-8-marca,120,1.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/120/1/1/dzien_kobiet_2023_info_pl.png" type="image/png" width="2134" height="2643">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/120/1/1/dzien_kobiet_2023_info_pl,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/120/1/1/dzien_kobiet_2023_info_pl,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika Dzień Babci i Dziadka (21 - 22 stycznia)]]></title>
+			<pubDate><![CDATA[Fri, 20 Jan 2023 12:54:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-dzien-babci-i-dziadka-21-22-stycznia,119,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-dzien-babci-i-dziadka-21-22-stycznia,119,1.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/119/1/1/dziadek_i_babcia_2023_slider_pl.png" type="image/png" width="1230" height="691">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/119/1/1/dziadek_i_babcia_2023_slider_pl,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/119/1/1/dziadek_i_babcia_2023_slider_pl,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Koniunktura gospodarcza w styczniu 2023 r.]]></title>
+			<pubDate><![CDATA[Fri, 20 Jan 2023 12:30:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-styczniu-2023-r-,38,79.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-styczniu-2023-r-,38,79.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/38/79/1/infografika_koniunktura_gospodarcza_01_2023.png" type="image/png" width="2362" height="4548">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/38/79/1/infografika_koniunktura_gospodarcza_01_2023,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/38/79/1/infografika_koniunktura_gospodarcza_01_2023,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Koniunktura gospodarcza w grudniu 2022 r.]]></title>
+			<pubDate><![CDATA[Thu, 22 Dec 2022 12:30:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-grudniu-2022-r-,38,78.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-grudniu-2022-r-,38,78.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/38/78/1/infografika_koniunktura_gospodarcza_12_2022.png" type="image/png" width="2362" height="4548">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/38/78/1/infografika_koniunktura_gospodarcza_12_2022,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/38/78/1/infografika_koniunktura_gospodarcza_12_2022,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Koniunktura gospodarcza w listopadzie 2022 r.]]></title>
+			<pubDate><![CDATA[Tue, 22 Nov 2022 12:30:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-listopadzie-2022-r-,38,77.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-koniunktura-gospodarcza-w-listopadzie-2022-r-,38,77.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/38/77/1/infografika_koniunktura_gospodarcza_11_2022.png" type="image/png" width="2362" height="4548">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/38/77/1/infografika_koniunktura_gospodarcza_11_2022,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/38/77/1/infografika_koniunktura_gospodarcza_11_2022,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+	</channel>
+</rss>
